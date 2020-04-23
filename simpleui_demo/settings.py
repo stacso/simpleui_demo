@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     # 'demo.apps.DemoConfig',
     # 注册自己的app
     'demo',
-    'finance',
+    #'finance',
     'django.contrib.admindocs'
 ]
 
